@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 😄 관심사
+- 과거의 데이터를 통해 미래를 예측한다는 것에 굉장히 재미를 느끼고 있습니다
