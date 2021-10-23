@@ -1,5 +1,8 @@
-<h3 align='center'> Hi there 👋 <br/>
-<a href=mailto:smw5626@gmail.com target="_blank"><p align='center'><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;</p>
+<a href=mailto:smw5626@gmail.com target="_blank"><img src="https://img.shields.io/badge/smw5626@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
+<h3> Hi there 👋  <br/></h3>
+👀 새로운 것을 배우는 것에 두려워하지 않습니다.<br/>
+🙆‍♂️ 항상 긍정적인 커뮤니케이션을 지향하고 좋아해요.</p>
 
 <!--
 **simsimee/simsimee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +19,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align='center'> 😄 interesting & Experience</h3>
-<p align='center'>과거의 데이터를 통해 미래를 예측한다는 것에 굉장히 재미를 느껴</p>
+<h3> 😄 Experience & interest</h3>
+- 코드스테이츠 AI Bootcamp 2기 2021.03 ~ 2021.09<br/>
+- 인제대학교 전자공학 학사 2014.03 ~ 2021.02<br/>
+- 데이터를 이용해 원인을 분석하고 ML/DL을 이용해 문제를 해결해나가는 과정이 재미있어요<br/>
+- 이미지, 영상, 모빌리티, 자율주행에 관심이 있어요
+</p>
 
 
-<h3 align='center'>📙 Language & Tools📙 </h3> 
-<p align='center'>Techs that i've used at least one. <br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<h3>📙 Language & Tools📙 </h3> 
+Techs that i've used at least one. <br/><br/>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
