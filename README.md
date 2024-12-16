@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 -->
 
 <h3> 😄 Experience & interest</h3>
-- 에이모 자율주행팀 연구원 (Data Scientist) 2021.12 ~ 2023.10<br/>
+- 셀렉트스타 Innov AI팀 AI 엔지니어 2024.05 ~<br/>
+- 에이모 자율주행팀 Data Scientist 2021.12 ~ 2023.10<br/>
 - 코드스테이츠 AI Bootcamp 2기 2021.03 ~ 2021.09<br/>
 - 전자공학 학사 2014.03 ~ 2021.02<br/>
 - 데이터를 이용해 원인을 분석하고 ML/DL을 이용해 문제를 해결해나가는 과정이 재미있어요.<br/>
