@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <h3> 😄 Experience & interest</h3>
-- 셀렉트스타 Innov AI팀 AI 엔지니어 2024.05 ~<br/>
+- 셀렉트스타 AI연구 1팀 AI Research Engineer 2024.05 ~<br/>
 - 에이모 자율주행팀 Data Scientist 2021.12 ~ 2023.10<br/>
 - 코드스테이츠 AI Bootcamp 2기 2021.03 ~ 2021.09<br/>
 - 전자공학 학사 2014.03 ~ 2021.02<br/>
